@@ -1,4 +1,4 @@
-# wees_s 🚀
+# wees_s
 
 🎓 **42 São Paulo Cadet**  
 Project-based education focused on **hands-on development**, **deep problem solving**, **peer-to-peer collaboration**, and **self-driven learning**.
@@ -7,7 +7,7 @@ Building software from the ground up — understanding systems **from memory to 
 
 ---
 
-## 🧠 42 Completed Projects
+## 42 Completed Projects
 > Each project badge below is clickable and links directly to its repository.
 
 <p align="center">
@@ -62,4 +62,4 @@ Building software from the ground up — understanding systems **from memory to 
 - Low-level programming
 - Unix systems, processes, threads & memory
 
-📈 Constantly learning. Constantly building. Constantly breaking things to understand them.
+Constantly building.
