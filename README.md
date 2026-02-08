@@ -52,6 +52,10 @@ Building software from the ground up — understanding systems **from memory to 
   <img width="150" height="150" src="https://github.com/user-attachments/assets/21e907f1-16c4-487b-acfa-21ec9e371c25"/>
 </a>
 
+<a href="https://github.com/wees-s/cub3d_42">
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2d647ffe-fcde-4925-85e6-c3c08a6ebd72" />
+</a>
+
 </p>
 
 ---
