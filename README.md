@@ -64,6 +64,14 @@ Desenvolvendo softwares :)
   <img width="140" src="https://github.com/user-attachments/assets/2d647ffe-fcde-4925-85e6-c3c08a6ebd72"/>
 </a>
 
+<a href="https://github.com/wees-s">
+<img width="150" height="140" src="https://github.com/user-attachments/assets/cd617454-8bfe-4ac7-9628-12470069d4c6" />
+</a>
+
+<a href="https://github.com/wees-s">
+<img width="150" height="140" src="https://github.com/user-attachments/assets/c2f4b53c-acce-4c8d-a20e-b1c34b4731f5" />
+</a>
+
 </p>
 
 ---
